@@ -129,7 +129,7 @@ class Asteroid {
         this.visible = true;
         this.x = x || Math.floor(Math.random() * canvasWidth);
         this.y = y || Math.floor(Math.random() * canvasHeight);
-        this.speed = 1;
+        this.speed = 5;
         this.radius = radius || 25; // 50
         this.angle = Math.floor(Math.random() * 359);
         this.strokeColor = 'white';
