@@ -1,13 +1,13 @@
 # AsteroidGame
 
-Making a asteroid game in javascript
+Making an asteroid game in javascript.
 [Click here to play](https://engichang1467.github.io/AsteroidGame/homePage.html)
 
 ## Instructions
 
-- w - moving forward
-- a - rotating left
-- d - rotating right
-- spacebar - shooting bullets
+- W - Move forward
+- A - Rotate left
+- D - Rotate right
+- Spacebar - Shoot bullets
 
-### you have 3 lives, good luck
+### You have 3 lives, good luck!
